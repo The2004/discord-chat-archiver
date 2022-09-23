@@ -1,7 +1,7 @@
 # discord-dm-exporter
 
 <h1>Discord chat exporter for DMs</h1>
-<p>⚠Disclaimer⚠ Please note that using this script you are violating Discord terms of service and you may get your Discord account terminated for self-botting.<br> ‼‼USE IT AT YOUR OWN RIST ‼‼</p>
+<p>⚠Disclaimer⚠ Please note that using this script you are violating Discord terms of service and you may get your Discord account terminated for self-botting.<br> ‼‼USE IT AT YOUR OWN RISK ‼‼</p>
 
 <h2>How to use ⁉<br></h2>
 <p>On line 7, put your Discord token in quotes</p>
