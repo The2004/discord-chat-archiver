@@ -7,6 +7,10 @@ currentdir = os.path.dirname(os.path.realpath(__file__))
 token = "" # put your discord token in quotes
 userid = 0 #user id of dm you want to log
 found = False
+if token == "":
+ token = input(">>> Please Enter your token")
+if userid == 0:
+ userid = int(input(">>> Please Enter ID of user DM you want to export"))
 messageblock = """<div class="messageblock">
             <p class="reply">╔═══ <strong>$rname</strong> $rcontent</p>
             <img align="top" class="pfp" src="$pfp"></img>
