@@ -1,4 +1,4 @@
-# discord-dm-exporter
+# discord-chat-archiver
 
 <h1>⚠Disclaimer⚠</h1>
 <p>Please note that using this script you are violating Discord terms of service and you may get your Discord account terminated for self-botting.<br> ‼‼USE IT AT YOUR OWN RISK ‼‼</p>
